@@ -41,14 +41,14 @@ Here are some of the projects I’ve worked on and challenges I’ve tackled:
 - Built a full AWS ECS deployment using Terraform  
 - Automated ALB listener rules for HTTP→HTTPS redirection  
 - Managed infrastructure as code with reusable modules  
-- [🔗 View Project Repo](https://github.com/abdikarimyusuf/ECS-MEMOS-PROJECT)
+[🔗 View Project Repo](https://github.com/abdikarimyusuf/ECS-MEMOS-PROJECT)
 
 ### 🔹 End-to-End Application Deployment on AWS EKS⁠
-•Provisioned scalable AWS infrastructure (EKS, VPC) using Terraform.
-•Containerised and deployed ObjectVision app with Docker on EKS for high availability.
-•Secured traffic with NGINX Ingress Controller, cert-manager, and AWS Certificate Manager (ACM).
-•Automated CI/​CD pipelines with GitHub Actions, integrating Trivy and Checkov for security
-- [🔗 View Project Repo](https://github.com/abdikarimyusuf/terraform-eks-ingress)
+- Provisioned scalable AWS infrastructure (EKS, VPC) using Terraform.
+- Containerised and deployed ObjectVision app with Docker on EKS for high availability.
+- Secured traffic with NGINX Ingress Controller, cert-manager, and AWS Certificate Manager (ACM).
+- Automated CI/​CD pipelines with GitHub Actions, integrating Trivy and Checkov for security
+ [🔗 View Project Repo](https://github.com/abdikarimyusuf/terraform-eks-ingress)
 
 ### 🔹 CI/CD Pipeline for AWS Deployments
 - Configured Jenkins pipeline for automated builds & deployments  
@@ -76,4 +76,5 @@ Here are some of the projects I’ve worked on and challenges I’ve tackled:
 ---
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=abdikarimyusuf)
+
 
